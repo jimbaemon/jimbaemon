@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 💻 Jr, Backend Engineer
 
-![라벨](https://github-readme-stats.vercel.app/api?username=jimbae&show_icons=true)
+![라벨](https://github-readme-stats.vercel.app/api?username=jimbaemon&show_icons=true)
