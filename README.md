@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Jimbae
 
 <!--
 **jimbaemon/jimbaemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Jr, Backend Engineer
+
+![라벨](https://github-readme-stats.vercel.app/api?username=jimbae&show_icons=true)
