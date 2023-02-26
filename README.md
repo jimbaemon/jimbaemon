@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Jr, Backend Engineer
+💻 Backend Engineer
 
 ![라벨](https://github-readme-stats.vercel.app/api?username=jimbaemon&show_icons=true&theme=vue-dark)
 
